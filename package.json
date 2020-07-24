@@ -1,0 +1,26 @@
+{
+  "name": "inovola",
+  "version": "1.0.0",
+  "description": "Backend Challenge ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ahmedzakariaghanm/backendChallenge.git"
+  },
+  "author": "ahmedzakariaghanm@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ahmedzakariaghanm/backendChallenge/issues"
+  },
+  "homepage": "https://github.com/ahmedzakariaghanm/backendChallenge#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "mongoose": "^5.9.25",
+    "nodemon": "^2.0.4"
+  }
+}
