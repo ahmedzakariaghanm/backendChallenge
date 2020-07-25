@@ -6,8 +6,8 @@
 3. Run **npm install**
 4. Run **nodemon index**
 5. Now you can use the API , open your browser and enter http://localhost:5000/
-6. use http://localhost:5000/getCoffeeMachine/ to get coffee machines , add product_type and water_line params to the end point to filter the resulte ,example : http://localhost:5000/getCoffeeMachine/?product_type=large will return all large machines .
-7. use http://localhost:5000/getCoffeePod/ to get coffee pods , add product_type and water_line params to the end point to filter the resulte ,example : http://localhost:5000/getCoffeePod/?product_type=large will return all large pods
+6. use http://localhost:5000/getCoffeeMachine/ to get coffee machines , add product_type and water_line query parameters to the end point to filter the resulte ,example : http://localhost:5000/getCoffeeMachine/?product_type=large will return all large machines .
+7. use http://localhost:5000/getCoffeePod/ to get coffee pods , add product_type ,coffee_flavor and pack_size query parameters to the end point to filter the resulte ,example : http://localhost:5000/getCoffeePod/?product_type=large will return all large pods
  
 
 ## Note
